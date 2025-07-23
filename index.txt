@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>山田花子 | デザイナー</title>
+</head>
+<body>
+  <h1>山田 花子</h1>
+  <h2>デザイナー</h2>
+  
+  <p>UI/UXデザインを中心に活動するデザイナーです。Web・アプリ・印刷物など幅広く対応しています。</p>
+  
+  <h3>スキル</h3>
+  <ul>
+    <li>Photoshop / Illustrator</li>
+    <li>Figma</li>
+    <li>HTML / CSS（勉強中）</li>
+  </ul>
+
+  <h3>連絡先</h3>
+  <p>Email: yourname@example.com</p>
+  <p><a href="https://twitter.com/yourname" target="_blank">Twitter</a></p>
+</body>
+</html>
